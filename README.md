@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=150&section=header&text=Hello%20World%20👋%20I'm%20Nick&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=150&section=header&text=Hello%20World%20👋%20I'm%20Nick&fontSize=70&animation=twinkling)
 
 # My goal is to become a front-end web developer
 
