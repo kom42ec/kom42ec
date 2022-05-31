@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=150&section=header&text=Hello%20World%20I'm%20Nikola&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=150&section=header&text=Hello%20World%20👋%20I'm%20Nick&fontSize=70)
 
-# I want to become a front-end web developer
+# My goal is to become a front-end web developer
 
 * After working as a digital marketing specialist at a crypto startup for 3 years, I've decided to pursue my long-desired goal of becoming a web developer. 
 * Currently, I'm learning as much as I can from various online platforms and I'm slowly building my portfolio. 
