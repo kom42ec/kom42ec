@@ -17,7 +17,7 @@ src="https://img.shields.io/twitter/follow/kom42ec?logo=twitter&style=for-the-ba
 
 ## 🎯 My goals
 1. ~Learn HTML & CSS~ 
-2. **Learn Git and GitHub** *👈 I'm here*
+2. **Learn Git and GitHub** *👈 I'm here atm*
 3. Learn vanilla JavaScript
 4. Build a bunch of project
 5. Learn a CSS framework
