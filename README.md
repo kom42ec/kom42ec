@@ -17,18 +17,19 @@ src="https://img.shields.io/twitter/follow/kom42ec?logo=twitter&style=for-the-ba
 * ⚡  Fun fact: I actually started coding back in 2008 and I've created a dozen apps with Visual Basic. But life pushed me in another direction and here I am, 14 years later, learning to code from scratch again.
 
 
-## 🎯 My goals
-1. ~Learn HTML & CSS~ 
-2. **Learn Git and GitHub** *👈 Here atm*
-3. Learn vanilla JavaScript
-4. Build a bunch of project
-5. Learn a CSS framework
-6. Learn a JS framework
-7. Build a portfolio
-8. Find an internship as a front-end web dev
-9. Start a career in tech
-10. Build a product for fun
-11. Get featured on ProductHunt
+## 🗺 My front-end developer roadmap for the first 100 days
+* ~HTML5~
+* ~CSS Fundamentals~
+* ~Flexbox and Grid~
+* ~Responsive Web Design~
+* ~Basic UI Design Principles~
+* Git and GitHub 👈 *Here atm*
+* Advanced CSS
+* Sass
+* CSS Framework: Bootstrap 5
+* CSS Framework: Tailwind CSS
+* Building projects
+* Start learning JavaScript
 
 ## 🛠 My skills so far
 
