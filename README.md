@@ -23,8 +23,8 @@ src="https://img.shields.io/twitter/follow/kom42ec?logo=twitter&style=for-the-ba
 * ~Flexbox and Grid~
 * ~Responsive Web Design~
 * ~Basic UI Design Principles~
-* Git and GitHub 👈 *Here atm*
-* Advanced CSS
+* ~Git and GitHub~
+* Advanced CSS 👈 *Here atm*
 * Sass
 * CSS Framework: Bootstrap 5
 * CSS Framework: Tailwind CSS
