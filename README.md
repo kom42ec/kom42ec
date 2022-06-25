@@ -11,9 +11,9 @@ src="https://img.shields.io/twitter/follow/kom42ec?logo=twitter&style=for-the-ba
 /></a>
 
 * 🌍  I'm based in Europe.
-* ✉️  You can contact me with a DM on <a href="https://www.twitter.com/kom42ec" target="_blank" rel="noreferrer">Twitter</a>.
+* ✉️  You can contact me via DM on <a href="https://www.twitter.com/kom42ec" target="_blank" rel="noreferrer">Twitter</a>.
 * 🚀  I'm currently working on [a landing page for a food app project](https://omnifood-kom42ec.netlify.app/).
-* 🧠  I'm learning how to create a repo and host my code here on GitHub.
+* 🧠  I'm learning advanced CSS at the moment.
 * ⚡  Fun fact: I actually started coding back in 2008 and I've created a dozen apps with Visual Basic. But life pushed me in another direction and here I am, 14 years later, learning to code from scratch again.
 
 
